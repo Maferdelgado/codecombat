@@ -8,11 +8,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     old_browser: "¡Oh! ¡Oh! Tu navegador es muy antiguo para correr CodeCombat. ¡Lo sentimos!" # Warning that shows up on really old Firefox/Chrome/Safari
     old_browser_suffix: "Puedes probar de todas formas, pero probablemente no funcione."
     ipad_browser: "Malas noticias: CodeCombat no funciona en el navegador de iPad. Buenas noticias: nuestra propia aplicación de iPad esta en espera para ser aprobada por Apple."
-    campaign: "Campaña"
-    for_beginners: "Para Principiantes"
-    multiplayer: "Multijugador" # Not currently shown on home page
-    for_developers: "Para Desarrolladores" # Not currently shown on home page.
-    or_ipad: "O descargar para iPad"
+  
 
   new_home:
     slogan: "El juego más interesante para aprender programación."
